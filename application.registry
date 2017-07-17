@@ -1,2 +1,5 @@
 App: RoomManagerApp
+Controllers: MainController
+Windows:
+WebServices:
 
